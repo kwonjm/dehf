@@ -1,0 +1,7 @@
+python_code_for_validation.txt : python code for validation
+codingBook.xlsx : coding book for make validation data
+x_sample.csv : example for input data
+y_sample.csv : example for primary endpoint (HFrEF)
+y5_sample.csv : example for secondary endpoint (HF with mid-range to reduced EF)
+dehf.h5 : saved deep-learning algorithm for electrocardiographic based heart failure identification (DEHF)
+captured_image_of_validation_process.jpeg : captured image of validation process
